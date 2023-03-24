@@ -226,7 +226,7 @@
     "index.html": "/react-fuse-playground/index.html"
   },
   "entrypoints": [
-    "static/css/main.b9a3d94e.css",
-    "static/js/main.5b6df190.js"
+    "/react-fuse-playground/static/css/main.b9a3d94e.css",
+    "/react-fuse-playground/static/js/main.5b6df190.js"
   ]
 }
